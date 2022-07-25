@@ -1,0 +1,170 @@
+/*            Data-Table*/
+            div#table_id_filter {
+                margin-bottom: 0.5cm;
+            }
+            
+            .dataTables_wrapper .dataTables_scroll {
+             
+             width: 1800px !important;
+             }
+             
+             tbody th {
+                position: sticky !important;
+                left: 0;
+    
+             }
+             #table_id td {
+                text-align: right !important;
+             }
+             
+             table.dataTable thead th, table.dataTable tfoot th {
+             font-weight: normal !important;
+             }
+             
+/*            Normal Styles*/
+            
+            header {
+            background-color: #c8ab37 !important;
+            border-color: #c8ab37 !important;
+            }
+            
+            header li {
+                background: linear-gradient(to top, #c19b01 0%, #8d7102 100%) !important;
+                box-shadow: inset 0px 1px 1px 0 #e2b603 !important;
+            }
+            
+ 
+            
+            #table_id.hide1 tr > *:nth-child(1) {
+            display: none;
+            }
+            
+            #table_id.hide2 tr > *:nth-child(2) {
+            display: none;
+            
+            }
+            #table_id.hide3 tr > *:nth-child(3) {
+            display: none;
+            }
+            #table_id.hide4 tr > *:nth-child(4) {
+            display: none;
+            }
+            #table_id.hide5 tr > *:nth-child(5) {
+            display: none;
+            }
+            #table_id.hide6 tr > *:nth-child(6) {
+            display: none;
+            }
+            #table_id.hide7 tr > *:nth-child(7) {
+            display: none;
+            }
+            #table_id.hide8 tr > *:nth-child(8) {
+            display: none;
+            }
+            #table_id.hide9 tr > *:nth-child(9) {
+            display: none;
+            }
+            #table_id.hide10 tr > *:nth-child(10) {
+            display: none;
+            }
+            #table_id.hide11 tr > *:nth-child(11) {
+            display: none;
+            }
+            #table_id.hide12 tr > *:nth-child(12) {
+            display: none;
+            }
+            #table_id.hide13 tr > *:nth-child(13) {
+            display: none;
+            }
+            #table_id.hide14 tr > *:nth-child(14) {
+            display: none;
+            }
+            #table_id.hide15 tr > *:nth-child(15) {
+            display: none;
+            }
+            #table_id.hide16 tr > *:nth-child(16) {
+            display: none;
+            }
+            #table_id.hide17 tr > *:nth-child(17) {
+            display: none;
+            }
+            
+            
+            
+            .grid-container {
+             display: grid;
+             grid-template-columns: auto auto auto auto auto auto auto;
+             padding: 4px;
+             grid-gap: 4px;
+             
+             
+            }
+            button {
+             font-size: 12px;
+             float: left;
+             cursor: pointer;
+             text-align: left;
+             padding: 4px;
+             
+             }
+             
+             button:hover {
+             background-color: silver;
+             }
+             
+             
+             button i {
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                transition: 0.3s;
+             }
+             
+             
+             button i:after {
+             content: 'Hide/Show';
+             position: absolute;
+             opacity: 0;
+             top: 0;
+             right: 20px;
+             transition: 0.3s;
+             }
+
+             button:hover i {
+             padding-right: 75px;
+             }
+             
+
+            button:hover i:after {
+              opacity: 1;
+              right: 0;
+            }
+            
+            table.noStyle {
+                table-layout: auto !important;
+                width: 210% !important;
+                border-style: none !important;
+            }
+            .noStyle td {
+                background-color:transparent !important;
+                
+            }
+            
+            dl.grid {
+           	display: grid;
+           	grid-template-columns: 1fr 100%;
+                    }
+                    
+            dl.grid_only {
+           	display: grid;
+           	grid-template-columns: auto auto auto auto auto auto;
+                    }        
+           
+            dd {
+           	margin: 0;
+           	padding-left: 1em;
+                }
+           
+            dl.grid dd {
+           	margin-bottom: 1em;
+           }
