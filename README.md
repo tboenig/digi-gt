@@ -31,9 +31,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
       </thead>
       <tbody>
          <tr>
-            <td>1841</td>
-            <td>67</td>
-            <td>266</td>
+            <td>2407</td>
+            <td>86</td>
+            <td>318</td>
          </tr>
       </tbody>
    </table>
@@ -51,6 +51,18 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                </tr>
             </thead>
             <tbody>
+               <tr>
+                  <td>PPN477396054</td>
+                  <td>43</td>
+                  <td>291</td>
+                  <td>11</td>
+               </tr>
+               <tr>
+                  <td>PPN477396569</td>
+                  <td>9</td>
+                  <td>275</td>
+                  <td>8</td>
+               </tr>
                <tr>
                   <td>PPN1807527700</td>
                   <td>32</td>
