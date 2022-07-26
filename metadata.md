@@ -73,9 +73,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
       </thead>
       <tbody>
          <tr>
-            <td>2407</td>
-            <td>86</td>
-            <td>318</td>
+            <td>2958</td>
+            <td>104</td>
+            <td>374</td>
          </tr>
       </tbody>
    </table>
