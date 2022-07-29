@@ -100,7 +100,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
    <div id="extent">
       <h2>Extent</h2>
       <p>
-                                In this section they can insert additional information, instructions or notes.
-                            </p>
+                                After exporting the transcriptions as PAGE XML files, those files were processed to remove empty lines:</p>
+
+         <kbd>perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml</kbd>
+                            
    </div>
 </div>
