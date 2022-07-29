@@ -100,9 +100,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
    <div id="extent">
       <h2>Extent</h2>
       <p>
-                                After exporting the transcriptions as PAGE XML files, those files were processed to remove empty lines:</p>
-
-         <code>perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml</code>
+        After exporting the transcriptions as PAGE XML files, those files were processed to remove empty lines:</p>
+         
+        perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml
                             
    </div>
 </div>
