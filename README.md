@@ -102,7 +102,7 @@ The transcriptions were done with eScriptorium, a transcription platform develop
       <p>
                                 After exporting the transcriptions as PAGE XML files, those files were processed to remove empty lines:</p>
 
-         <kbd>perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml</kbd>
+         <code>perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml</code>
                             
    </div>
 </div>
