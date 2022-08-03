@@ -40,12 +40,24 @@ The transcriptions were done with eScriptorium, a transcription platform develop
    <div id="transcriptions">
       <h3>List of transcriptions</h3>
       <div>
-         <table class="noStyle"/>
          <table id="table_id" class="display">
             <thead>
                <tr>
                   <th>document</th>
                   <th>TxtRegion</th>
+                  <th>ImgRegion</th>
+                  <th>LineDrawRegion</th>
+                  <th>GraphRegion</th>
+                  <th>TabRegion</th>
+                  <th>ChartRegion</th>
+                  <th>SepRegion</th>
+                  <th>MathRegion</th>
+                  <th>ChemRegion</th>
+                  <th>MusicRegion</th>
+                  <th>AdRegion</th>
+                  <th>NoiseRegion</th>
+                  <th>UnkownRegion</th>
+                  <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
                </tr>
@@ -54,42 +66,133 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                <tr>
                   <td>PPN477396054</td>
                   <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>291</td>
                   <td>11</td>
                </tr>
                <tr>
                   <td>PPN477396569</td>
                   <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>275</td>
                   <td>8</td>
                </tr>
                <tr>
                   <td>PPN1807527700</td>
                   <td>32</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>559</td>
                   <td>12</td>
                </tr>
                <tr>
                   <td>PPN506281272</td>
                   <td>72</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>273</td>
                   <td>13</td>
                </tr>
                <tr>
                   <td>PPN477366015</td>
                   <td>59</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>617</td>
                   <td>24</td>
                </tr>
                <tr>
                   <td>PPN1807526488</td>
                   <td>103</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>392</td>
                   <td>18</td>
                </tr>
                <tr>
                   <td>PPN477380670</td>
                   <td>61</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>604</td>
                   <td>20</td>
                </tr>
