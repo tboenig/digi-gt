@@ -53,61 +53,61 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                      <dt>TxtRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
-                            target="_blank">TextRegion</a>
+                           target="_blank">TextRegion</a>
                      </dd>
                      <dt>ImgRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyBildbereiche.html"
-                            target="_blank">ImageRegion</a>
+                           target="_blank">ImageRegion</a>
                      </dd>
                      <dt>LineDrawRegion</dt>
                      <dd>LineDrawingRegion</dd>
                      <dt>GraphRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
-                            target="_blank">GraphicRegion</a>
+                           target="_blank">GraphicRegion</a>
                      </dd>
                      <dt>TabRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyTabellen.html"
-                            target="_blank">TableRegion</a>
+                           target="_blank">TableRegion</a>
                      </dd>
                      <dt>ChartRegion</dt>
                      <dd>ChartRegion</dd>
                      <dt>SepRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
-                            target="_blank">SeperatorRegion</a>
+                           target="_blank">SeperatorRegion</a>
                      </dd>
                      <dt>MathRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyMathematische_Zeichen.html"
-                            target="_blank">MathsRegion</a>
+                           target="_blank">MathsRegion</a>
                      </dd>
                      <dt>ChemRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyChemische_Symbole.html"
-                            target="_blank">ChemRegion</a>
+                           target="_blank">ChemRegion</a>
                      </dd>
                      <dt>MusicRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyNotenzeichen.html"
-                            target="_blank">MusicRegion</a>
+                           target="_blank">MusicRegion</a>
                      </dd>
                      <dt>AdRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyWerbung.html"
-                            target="_blank">AdvertRegion</a>
+                           target="_blank">AdvertRegion</a>
                      </dd>
                      <dt>NoiseRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
-                            target="_blank">NoiseRegion</a>
+                           target="_blank">NoiseRegion</a>
                      </dd>
                      <dt>UnkownRegion</dt>
                      <dd>
                         <a href="https://ocr-d.de/de/gt-guidelines/trans/lySonstiges.html"
-                            target="_blank">UnkownRegion</a>
+                           target="_blank">UnkownRegion</a>
                      </dd>
                      <dt>CustomRegion</dt>
                      <dd>CustomRegion</dd>
@@ -192,10 +192,10 @@ The transcriptions were done with eScriptorium, a transcription platform develop
          </thead>
          <tbody>
             <tr>
-               <th>PPN477396054</th>
-               <td>291</td>
-               <td>11</td>
-               <td>43</td>
+               <th>PPN477380670</th>
+               <td>604</td>
+               <td>20</td>
+               <td>61</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -238,9 +238,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0007.xml">477396054_0007.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0007.xml">477380670_0007.xml</a>
                            </td>
-                           <td>28</td>
+                           <td>30</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -259,9 +259,135 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0008.xml">477396054_0008.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0005.xml">477380670_0005.xml</a>
                            </td>
-                           <td>28</td>
+                           <td>2</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0008.xml">477380670_0008.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0011.xml">477380670_0011.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0009.xml">477380670_0009.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0022.xml">477380670_0022.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0012.xml">477380670_0012.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0021.xml">477380670_0021.xml</a>
+                           </td>
+                           <td>42</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -280,7 +406,7 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0003.xml">477396054_0003.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0010.xml">477380670_0010.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -301,30 +427,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0006.xml">477396054_0006.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0020.xml">477380670_0020.xml</a>
                            </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0010.xml">477396054_0010.xml</a>
-                           </td>
-                           <td>28</td>
+                           <td>37</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -343,93 +448,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0002.xml">477396054_0002.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0016.xml">477380670_0016.xml</a>
                            </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0005.xml">477396054_0005.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0004.xml">477396054_0004.xml</a>
-                           </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0009.xml">477396054_0009.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0011.xml">477396054_0011.xml</a>
-                           </td>
-                           <td>29</td>
+                           <td>34</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -448,9 +469,905 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0001.xml">477396054_0001.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0014.xml">477380670_0014.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0015.xml">477380670_0015.xml</a>
+                           </td>
+                           <td>36</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0017.xml">477380670_0017.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0115.xml">477380670_0115.xml</a>
+                           </td>
+                           <td>23</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0019.xml">477380670_0019.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0006.xml">477380670_0006.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0013.xml">477380670_0013.xml</a>
+                           </td>
+                           <td>32</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0114.xml">477380670_0114.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0018.xml">477380670_0018.xml</a>
+                           </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>PPN1807527700</th>
+               <td>559</td>
+               <td>12</td>
+               <td>32</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0001.xml">1807527700_0001.xml</a>
+                           </td>
+                           <td>9</td>
+                           <td>1</td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0002.xml">1807527700_0002.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0004.xml">1807527700_0004.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0005.xml">1807527700_0005.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0006.xml">1807527700_0006.xml</a>
+                           </td>
+                           <td>49</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0011.xml">1807527700_0011.xml</a>
+                           </td>
+                           <td>50</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0010.xml">1807527700_0010.xml</a>
+                           </td>
+                           <td>75</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0007.xml">1807527700_0007.xml</a>
+                           </td>
+                           <td>118</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0008.xml">1807527700_0008.xml</a>
+                           </td>
+                           <td>82</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0012.xml">1807527700_0012.xml</a>
+                           </td>
+                           <td>62</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0009.xml">1807527700_0009.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0003.xml">1807527700_0003.xml</a>
+                           </td>
+                           <td>37</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>PPN1807526488</th>
+               <td>392</td>
+               <td>18</td>
+               <td>103</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0004.xml">1807526488_0004.xml</a>
+                           </td>
+                           <td>2</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0017.xml">1807526488_0017.xml</a>
+                           </td>
+                           <td>55</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0002.xml">1807526488_0002.xml</a>
                            </td>
                            <td>6</td>
+                           <td>1</td>
+                           <td>45</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0009.xml">1807526488_0009.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0003.xml">1807526488_0003.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0013.xml">1807526488_0013.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0006.xml">1807526488_0006.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0007.xml">1807526488_0007.xml</a>
+                           </td>
+                           <td>11</td>
+                           <td>1</td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0010.xml">1807526488_0010.xml</a>
+                           </td>
+                           <td>49</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0005.xml">1807526488_0005.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0015.xml">1807526488_0015.xml</a>
+                           </td>
+                           <td>22</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0008.xml">1807526488_0008.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0014.xml">1807526488_0014.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0016.xml">1807526488_0016.xml</a>
+                           </td>
+                           <td>46</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0018.xml">1807526488_0018.xml</a>
+                           </td>
+                           <td>60</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0001.xml">1807526488_0001.xml</a>
+                           </td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0012.xml">1807526488_0012.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>1</td>
+                           <td>12</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0011.xml">1807526488_0011.xml</a>
+                           </td>
+                           <td>37</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -518,27 +1435,6 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0010.xml">477396569_0010.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
                               <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0008.xml">477396569_0008.xml</a>
                            </td>
                            <td>34</td>
@@ -560,32 +1456,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0003.xml">477396569_0003.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0006.xml">477396569_0006.xml</a>
                            </td>
-                           <td>35</td>
+                           <td>33</td>
                            <td>1</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0007.xml">477396569_0007.xml</a>
-                           </td>
-                           <td>35</td>
-                           <td>1</td>
-                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -644,9 +1519,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0006.xml">477396569_0006.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0003.xml">477396569_0003.xml</a>
                            </td>
-                           <td>33</td>
+                           <td>35</td>
                            <td>1</td>
                            <td>1</td>
                            <td>0</td>
@@ -684,60 +1559,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                            <td>0</td>
                            <td>0</td>
                         </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>PPN1807527700</th>
-               <td>559</td>
-               <td>12</td>
-               <td>32</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0011.xml">1807527700_0011.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0010.xml">477396569_0010.xml</a>
                            </td>
-                           <td>50</td>
+                           <td>34</td>
                            <td>1</td>
                            <td>1</td>
                            <td>0</td>
@@ -756,543 +1582,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0005.xml">1807527700_0005.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396569/GT-PAGE/477396569_0007.xml">477396569_0007.xml</a>
                            </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0008.xml">1807527700_0008.xml</a>
-                           </td>
-                           <td>82</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0003.xml">1807527700_0003.xml</a>
-                           </td>
-                           <td>37</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0004.xml">1807527700_0004.xml</a>
-                           </td>
-                           <td>19</td>
+                           <td>35</td>
                            <td>1</td>
                            <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0009.xml">1807527700_0009.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0007.xml">1807527700_0007.xml</a>
-                           </td>
-                           <td>118</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0006.xml">1807527700_0006.xml</a>
-                           </td>
-                           <td>49</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0002.xml">1807527700_0002.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0010.xml">1807527700_0010.xml</a>
-                           </td>
-                           <td>75</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0001.xml">1807527700_0001.xml</a>
-                           </td>
-                           <td>9</td>
-                           <td>1</td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807527700/GT-PAGE/1807527700_0012.xml">1807527700_0012.xml</a>
-                           </td>
-                           <td>62</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>PPN506281272</th>
-               <td>273</td>
-               <td>13</td>
-               <td>72</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0034.xml">506281272_0034.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>1</td>
-                           <td>15</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0031.xml">506281272_0031.xml</a>
-                           </td>
-                           <td>32</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0033.xml">506281272_0033.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0032.xml">506281272_0032.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0028.xml">506281272_0028.xml</a>
-                           </td>
-                           <td>32</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0027.xml">506281272_0027.xml</a>
-                           </td>
-                           <td>14</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0026.xml">506281272_0026.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0030.xml">506281272_0030.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0035.xml">506281272_0035.xml</a>
-                           </td>
-                           <td>36</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0023.xml">506281272_0023.xml</a>
-                           </td>
-                           <td>8</td>
-                           <td>1</td>
-                           <td>10</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0025.xml">506281272_0025.xml</a>
-                           </td>
-                           <td>17</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0029.xml">506281272_0029.xml</a>
-                           </td>
-                           <td>31</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0024.xml">506281272_0024.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1358,11 +1652,74 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0008.xml">477366015_0008.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0023.xml">477366015_0023.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0002.xml">477366015_0002.xml</a>
+                           </td>
+                           <td>3</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0015.xml">477366015_0015.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0007.xml">477366015_0007.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1400,30 +1757,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0018.xml">477366015_0018.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0013.xml">477366015_0013.xml</a>
                            </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0014.xml">477366015_0014.xml</a>
-                           </td>
-                           <td>28</td>
+                           <td>29</td>
                            <td>1</td>
                            <td>1</td>
                            <td>0</td>
@@ -1463,53 +1799,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0175.xml">477366015_0175.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0018.xml">477366015_0018.xml</a>
                            </td>
-                           <td>26</td>
+                           <td>27</td>
                            <td>1</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0178.xml">477366015_0178.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0023.xml">477366015_0023.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1547,9 +1841,30 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0013.xml">477366015_0013.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0011.xml">477366015_0011.xml</a>
                            </td>
-                           <td>29</td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0175.xml">477366015_0175.xml</a>
+                           </td>
+                           <td>26</td>
                            <td>1</td>
                            <td>1</td>
                            <td>0</td>
@@ -1568,28 +1883,7 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0019.xml">477366015_0019.xml</a>
-                           </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0022.xml">477366015_0022.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0024.xml">477366015_0024.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1631,7 +1925,28 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0015.xml">477366015_0015.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0019.xml">477366015_0019.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0008.xml">477366015_0008.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1673,7 +1988,133 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0024.xml">477366015_0024.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0176.xml">477366015_0176.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0014.xml">477366015_0014.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0016.xml">477366015_0016.xml</a>
+                           </td>
+                           <td>31</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0010.xml">477366015_0010.xml</a>
+                           </td>
+                           <td>22</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0178.xml">477366015_0178.xml</a>
+                           </td>
+                           <td>13</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0177.xml">477366015_0177.xml</a>
+                           </td>
+                           <td>25</td>
+                           <td>1</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0022.xml">477366015_0022.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1713,11 +2154,81 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                            <td>0</td>
                            <td>0</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>PPN506281272</th>
+               <td>273</td>
+               <td>13</td>
+               <td>72</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0002.xml">477366015_0002.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0023.xml">506281272_0023.xml</a>
                            </td>
-                           <td>3</td>
+                           <td>8</td>
+                           <td>1</td>
+                           <td>10</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0028.xml">506281272_0028.xml</a>
+                           </td>
+                           <td>32</td>
                            <td>1</td>
                            <td>4</td>
                            <td>0</td>
@@ -1736,11 +2247,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0177.xml">477366015_0177.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0033.xml">506281272_0033.xml</a>
                            </td>
-                           <td>25</td>
+                           <td>29</td>
                            <td>1</td>
-                           <td>2</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1757,11 +2268,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0016.xml">477366015_0016.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0035.xml">506281272_0035.xml</a>
                            </td>
-                           <td>31</td>
+                           <td>36</td>
                            <td>1</td>
-                           <td>2</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1778,51 +2289,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0011.xml">477366015_0011.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0030.xml">506281272_0030.xml</a>
                            </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0176.xml">477366015_0176.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0007.xml">477366015_0007.xml</a>
-                           </td>
-                           <td>27</td>
+                           <td>4</td>
                            <td>1</td>
                            <td>7</td>
                            <td>0</td>
@@ -1841,100 +2310,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477366015/GT-PAGE/477366015_0010.xml">477366015_0010.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0026.xml">506281272_0026.xml</a>
                            </td>
-                           <td>22</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>PPN1807526488</th>
-               <td>392</td>
-               <td>18</td>
-               <td>103</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0010.xml">1807526488_0010.xml</a>
-                           </td>
-                           <td>49</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0015.xml">1807526488_0015.xml</a>
-                           </td>
-                           <td>22</td>
+                           <td>7</td>
                            <td>1</td>
                            <td>9</td>
                            <td>0</td>
@@ -1953,135 +2331,9 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0007.xml">1807526488_0007.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0025.xml">506281272_0025.xml</a>
                            </td>
-                           <td>11</td>
-                           <td>1</td>
-                           <td>11</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0017.xml">1807526488_0017.xml</a>
-                           </td>
-                           <td>55</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0011.xml">1807526488_0011.xml</a>
-                           </td>
-                           <td>37</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0003.xml">1807526488_0003.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0016.xml">1807526488_0016.xml</a>
-                           </td>
-                           <td>46</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0014.xml">1807526488_0014.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0004.xml">1807526488_0004.xml</a>
-                           </td>
-                           <td>2</td>
+                           <td>17</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
@@ -2100,11 +2352,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0018.xml">1807526488_0018.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0032.xml">506281272_0032.xml</a>
                            </td>
-                           <td>60</td>
+                           <td>29</td>
                            <td>1</td>
-                           <td>3</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2121,11 +2373,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0012.xml">1807526488_0012.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0027.xml">506281272_0027.xml</a>
                            </td>
-                           <td>35</td>
+                           <td>14</td>
                            <td>1</td>
-                           <td>12</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2142,74 +2394,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0001.xml">1807526488_0001.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0006.xml">1807526488_0006.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0002.xml">1807526488_0002.xml</a>
-                           </td>
-                           <td>6</td>
-                           <td>1</td>
-                           <td>45</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0005.xml">1807526488_0005.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0034.xml">506281272_0034.xml</a>
                            </td>
                            <td>4</td>
                            <td>1</td>
-                           <td>3</td>
+                           <td>15</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2226,11 +2415,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0013.xml">1807526488_0013.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0029.xml">506281272_0029.xml</a>
                            </td>
-                           <td>24</td>
+                           <td>31</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2247,11 +2436,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0009.xml">1807526488_0009.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0031.xml">506281272_0031.xml</a>
                            </td>
-                           <td>41</td>
+                           <td>32</td>
                            <td>1</td>
-                           <td>1</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2268,11 +2457,11 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN1807526488/GT-PAGE/1807526488_0008.xml">1807526488_0008.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN506281272/GT-PAGE/506281272_0024.xml">506281272_0024.xml</a>
                            </td>
-                           <td>0</td>
+                           <td>30</td>
                            <td>1</td>
-                           <td>1</td>
+                           <td>4</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -2292,10 +2481,10 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                </td>
             </tr>
             <tr>
-               <th>PPN477380670</th>
-               <td>604</td>
-               <td>20</td>
-               <td>61</td>
+               <th>PPN477396054</th>
+               <td>291</td>
+               <td>11</td>
+               <td>43</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -2338,9 +2527,156 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0114.xml">477380670_0114.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0011.xml">477396054_0011.xml</a>
                            </td>
-                           <td>30</td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0002.xml">477396054_0002.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0005.xml">477396054_0005.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0009.xml">477396054_0009.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0004.xml">477396054_0004.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0007.xml">477396054_0007.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0008.xml">477396054_0008.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0001.xml">477396054_0001.xml</a>
+                           </td>
+                           <td>6</td>
                            <td>1</td>
                            <td>2</td>
                            <td>0</td>
@@ -2359,389 +2695,53 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0005.xml">477380670_0005.xml</a>
-                           </td>
-                           <td>2</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0013.xml">477380670_0013.xml</a>
-                           </td>
-                           <td>32</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0018.xml">477380670_0018.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0014.xml">477380670_0014.xml</a>
-                           </td>
-                           <td>35</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0011.xml">477380670_0011.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0017.xml">477380670_0017.xml</a>
-                           </td>
-                           <td>35</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0020.xml">477380670_0020.xml</a>
-                           </td>
-                           <td>37</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0021.xml">477380670_0021.xml</a>
-                           </td>
-                           <td>42</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0019.xml">477380670_0019.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0012.xml">477380670_0012.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0009.xml">477380670_0009.xml</a>
-                           </td>
-                           <td>31</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0007.xml">477380670_0007.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0022.xml">477380670_0022.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0015.xml">477380670_0015.xml</a>
-                           </td>
-                           <td>36</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0008.xml">477380670_0008.xml</a>
-                           </td>
-                           <td>31</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0006.xml">477380670_0006.xml</a>
-                           </td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0016.xml">477380670_0016.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0115.xml">477380670_0115.xml</a>
-                           </td>
-                           <td>23</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477380670/GT-PAGE/477380670_0010.xml">477380670_0010.xml</a>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0003.xml">477396054_0003.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
                            <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0010.xml">477396054_0010.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/digi-gt/blob/main/data/PPN477396054/GT-PAGE/477396054_0006.xml">477396054_0006.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

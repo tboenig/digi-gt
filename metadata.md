@@ -29,6 +29,29 @@ The transcriptions were done with eScriptorium, a transcription platform develop
    </details>
 </div>
 <div class="metadata">
+   <h2>Labelling</h2>
+   <p>The GT data has been labeled. The labeling is 
+               based on an ontology defined by the Pattern Recognition and Image Analysis Research Lab 
+               (PRImA-Research-Lab) at the University of Salford. 
+               This normalized and semantic description of the OCR-GT data can be found in the METS metadata file. 
+               The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
+   <p>Here you will find a description and explanation of the labeling metadata.</p>
+</div>
+<div class="metadata">
+   <h2>Download</h2>
+   <p>You can download the complete data here. 
+                        They contain a zip file in which the components of the collection are also in zip files.
+                        Metadata for the complete collection and the components are in METS format.</p>
+   <ul>
+      <li>
+         <a href="https://github.com/tboenig/digi-gt/releases/download/v29/bagitDump-v29.zip">Current version download: bagitDump-v29.zip</a>
+      </li>
+      <li>
+         <a href="https://github.com/tboenig/digi-gt/releases">Version archive</a>
+      </li>
+   </ul>
+</div>
+<div class="metadata">
    <h2>Total view</h2>
    <table class="noStyle">
       <tr>
@@ -43,7 +66,7 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <dt>TxtRegion</dt>
                   <dd>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
-                         target="_blank">TextRegion</a>
+                        target="_blank">TextRegion</a>
                   </dd>
                </dl>
             </details>
