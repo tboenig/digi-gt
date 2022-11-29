@@ -64,8 +64,8 @@ The transcriptions were done with eScriptorium, a transcription platform develop
             </thead>
             <tbody>
                <tr>
-                  <td>PPN477396054</td>
-                  <td>43</td>
+                  <td>PPN477380670</td>
+                  <td>61</td>
                   <td/>
                   <td/>
                   <td/>
@@ -79,27 +79,8 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <td/>
                   <td/>
                   <td/>
-                  <td>291</td>
-                  <td>11</td>
-               </tr>
-               <tr>
-                  <td>PPN477396569</td>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>275</td>
-                  <td>8</td>
+                  <td>604</td>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>PPN1807527700</td>
@@ -121,8 +102,8 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <td>12</td>
                </tr>
                <tr>
-                  <td>PPN506281272</td>
-                  <td>72</td>
+                  <td>PPN1807526488</td>
+                  <td>103</td>
                   <td/>
                   <td/>
                   <td/>
@@ -136,8 +117,27 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <td/>
                   <td/>
                   <td/>
-                  <td>273</td>
-                  <td>13</td>
+                  <td>392</td>
+                  <td>18</td>
+               </tr>
+               <tr>
+                  <td>PPN477396569</td>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>275</td>
+                  <td>8</td>
                </tr>
                <tr>
                   <td>PPN477366015</td>
@@ -159,8 +159,8 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <td>24</td>
                </tr>
                <tr>
-                  <td>PPN1807526488</td>
-                  <td>103</td>
+                  <td>PPN506281272</td>
+                  <td>72</td>
                   <td/>
                   <td/>
                   <td/>
@@ -174,12 +174,12 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <td/>
                   <td/>
                   <td/>
-                  <td>392</td>
-                  <td>18</td>
+                  <td>273</td>
+                  <td>13</td>
                </tr>
                <tr>
-                  <td>PPN477380670</td>
-                  <td>61</td>
+                  <td>PPN477396054</td>
+                  <td>43</td>
                   <td/>
                   <td/>
                   <td/>
@@ -193,8 +193,8 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                   <td/>
                   <td/>
                   <td/>
-                  <td>604</td>
-                  <td>20</td>
+                  <td>291</td>
+                  <td>11</td>
                </tr>
             </tbody>
          </table>
