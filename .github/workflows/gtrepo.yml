@@ -28,11 +28,15 @@ jobs:
         mv gt-repo-scripts/scripts scripts/
         rm -r gt-repo-scripts
 
+     # Instalations GT-Labelling Documentation
 
+    - name: install labeling
+      run: |
+        git clone https://github.com/tboenig/gt-guidelines.git
 
      
-    # Installation and Directories    
-       
+    # Installation and Directories
+      
     - name: install ocrd
       run: |
        git clone --depth 1 https://github.com/OCR-D/core
@@ -42,12 +46,10 @@ jobs:
        cd ..
        rm -rf core
        
-       
-       
           
     - name: Download and install saxon
       run: |
-        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/11/Java/SaxonHE11-3J.zip/download
+        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download 
         unzip download
                       
     - name: make ocrdzip_out
@@ -75,38 +77,52 @@ jobs:
            
     - name: transform METADATA and make GT-Overview
       run: |
-        java -jar saxon-he-11.3.jar -xsl:scripts/gt-overview_metadata.xsl \
-        output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY \
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
         -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
       shell: bash
 
     - name: make Compressed table view
       run: |
-        java -jar saxon-he-11.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=TABLE repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY \
         -s:scripts/gt-overview_metadata.xsl -o:ghout/table.md
       shell: bash
 
     - name: detailed table view
       run: |
-        java -jar saxon-he-11.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=OVERVIEW repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
         -s:scripts/gt-overview_metadata.xsl -o:ghout/overview.md
       shell: bash
 
     - name: generate mets.sh
       run: |
-        java -jar saxon-he-11.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METS repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
         -s:scripts/gt-overview_metadata.xsl -o:scripts/mets.sh
       shell: bash
       
     - name: generate README
       run: |
-        java -jar saxon-he-11.3.jar -xsl:scripts/gt-overview_metadata.xsl \
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=README repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
         -s:scripts/gt-overview_metadata.xsl -o:README.md
       shell: bash
+      
+    - name: generate METS Volume File
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        output=METSvolume repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
+        -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/mets.xml
+      shell: bash
+      
+    - name: delete fileGrp DEFAULT
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        output=METSdefault repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
+        -s:scripts/gt-overview_metadata.xsl
+      shell: bash   
   
     - name: Index-link
       run: |
@@ -170,15 +186,4 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: ghout  # The folder the action should deploy.           
-   
-   
-   
-   
-   
-   
-   
-   
-          
-          
-  
+          folder: ghout  # The folder the action should deploy.
