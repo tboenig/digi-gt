@@ -44,7 +44,7 @@ The transcriptions were done with eScriptorium, a transcription platform develop
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/digi-gt/releases/download/v29/bagitDump-v29.zip">Current version download: bagitDump-v29.zip</a>
+         <a href="https://github.com/tboenig/digi-gt/releases/download/v30/bagitDump-v30.zip">Current version download: bagitDump-v30.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/digi-gt/releases">Version archive</a>
